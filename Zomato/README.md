@@ -49,6 +49,4 @@ This project involves performing Exploratory Data Analysis (EDA) on the Zomato d
 - **Seaborn & Matplotlib**: For creating insightful and aesthetic visualizations
 - **Jupyter Notebook**: For running the analysis interactively
 
-## Contact
-
-# Feel free to reach out with any questions or feedback
+### Feel free to reach out with any questions or feedback
